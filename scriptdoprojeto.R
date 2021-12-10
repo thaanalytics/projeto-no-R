@@ -5,3 +5,6 @@
 # Segunda parte 
 join ()
 select ()
+# Versao 4
+# Alteracoes remotas
+# novos comandos
